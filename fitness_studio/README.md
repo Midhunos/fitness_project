@@ -68,4 +68,4 @@ Request Body:
  
 # to see the bookings (get)
 
-/api/bookings/?email=midhun@example.com
+/api/bookings/?email=midhun@gmail.com
